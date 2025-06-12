@@ -1,4 +1,3 @@
-# tiwiuwiuwiu.github.io
 # E-Scooter Safety Analysis in Australian Cities
 
 This open-source project investigates crash risk patterns and injury severity associated with e-scooter usage across selected Australian cities.
