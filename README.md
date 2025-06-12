@@ -50,5 +50,3 @@ This project can help urban planners:
 ## 👩‍🔬 Author
 
 Tiwi | GIS Analyst
-
-## 💡 License
