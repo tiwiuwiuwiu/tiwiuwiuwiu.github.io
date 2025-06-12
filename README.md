@@ -49,8 +49,6 @@ This project can help urban planners:
 
 ## 👩‍🔬 Author
 
-Tiwi | GIS Analyst & Urban Mobility Enthusiast
+Tiwi | GIS Analyst
 
 ## 💡 License
-
-MIT License
